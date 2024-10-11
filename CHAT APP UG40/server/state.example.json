@@ -1,0 +1,15 @@
+{
+    "server_name": "Group 40",
+    "ip": "0.0.0.0",
+    "port": "8080",
+    "counter": 0,
+    "neighbours": [
+        {
+            "address": "ip:port",
+            "counter": 0,
+            "public_key": "the other server public_key (pem)"
+        }
+    ],
+    "clients": {}
+}
+

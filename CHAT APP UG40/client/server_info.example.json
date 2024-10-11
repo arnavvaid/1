@@ -1,0 +1,5 @@
+{
+    "master_server_ip": "server_ip",
+    "master_server_port": "port number (in integer format)",
+    "master_server_counter": 0
+}
